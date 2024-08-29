@@ -1,0 +1,7 @@
+
+One sunny <adjective> day, <name> decided to go to the park.
+They brought along their favorite <noun>.
+At the park, they met a <animal> that was <verb> around a <noun>.
+<name> thought it was the most <adjective> thing they had ever seen.
+After spending time with the <animal>, <name> decided to <verb> back home, feeling very <adjective> about their day.
+
